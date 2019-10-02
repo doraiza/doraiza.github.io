@@ -6,9 +6,9 @@
 }
 .full{ font-size: 16px; }
 .logo-img {
-    width: 56px;
-    height: 56px;
-    border-radius: 60px;
+    width: 150px;
+    height: 150px;
+    border-radius: 0px;
     margin: 0 auto;
 }
 .logo-turner {
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #528c83;
+    background: #d2edd1;
 }
 li.current-menu-item:before {
     content: "";
@@ -81,7 +81,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #fff;
+    background: ##528c83;
 }
 .menu ul li a {
     font-size: 15px;
@@ -90,13 +90,13 @@ li.current-menu-item:before {
     display: block;
     text-decoration: none;
     padding: 0 0 0 10px;
-    color: #fff;
+    color: ##528c83;
 }
 .home-subtitle {
     font-size: 26px;
     margin-bottom: 32px;
     margin-top: 5px;
-    color: #528c83;
+    color: #d2edd1;
     font-weight: 300;
 }
 h2.blog-title-pro{color: #fff;}
