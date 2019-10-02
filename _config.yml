@@ -1,20 +1,20 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Izadora Lima
+description: Game & Narrative Designer
+author: Izadora Lima
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
-about: Freelance developer
+about: Game & Narrative Designer
 
 baseurl: ""
-url: ""
+url: "http://doraiza.github.io"
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: \desmyeolada
   fb_appid: 000000000000
 
 
