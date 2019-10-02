@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects.
+A few projects of mine! (Still to discover how to add them here, btw)
